@@ -1,0 +1,19 @@
+{
+  "name": "postcss-resemble-image-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial for the postcss-resemble-image plugin.",
+  "main": "gulpfile.js",
+  "repository": {
+    "url": "https://github.com/jayfallon/postcss-resemble-image-tutorial.git",
+    "type": "git"
+  },
+  "author": "Jay Fallon",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^6.5.3",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.2.0",
+    "gulp-util": "^3.0.7",
+    "postcss-resemble-image": "^2.1.0"
+  }
+}
