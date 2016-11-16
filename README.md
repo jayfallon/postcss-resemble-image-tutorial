@@ -18,6 +18,7 @@ npm install --save
 - [gulp](): The streaming build system
 - [gulp-postcss](https://github.com/postcss/gulp-postcss): PostCSS gulp plugin
 - [gulp-util](): Utility functions for gulp plugins
+- [postcss-resemble-image](): Provide a gradient fallback for an image that loosely resembles the original.
 
 ## Dev Dependencies
 
